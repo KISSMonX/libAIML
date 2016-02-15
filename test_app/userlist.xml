@@ -2,6 +2,7 @@
 <userset>
   <user name="localhost">
     <set name="it"><![CDATA[run]]></set>
-    <set name="topic"><![CDATA[run]]></set>
+    <set name="personality"><![CDATA[abusive]]></set>
+    <set name="topic"><![CDATA[your age]]></set>
   </user>
 </userset>

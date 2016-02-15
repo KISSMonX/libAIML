@@ -56,4 +56,9 @@ test_app/Makefile.in
 test_app/aiml/Makefile
 test_app/main.o
 test_app/test_app
+*.o
+.tags
+.deps/
+aiml_util
+gossip.txt
 

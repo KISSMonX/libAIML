@@ -101,7 +101,7 @@ bool Parser::parseCommandLine ( int iArgs, char *pArguments[] )
     printHelp ( );
   }
   else {
-    m_strFromType = getExtension ( strInput ); 
+    m_strFromType = getExtension ( strInput );
     if ( ! bSpecType )  {
       // The user did not specify the output type, so we should deduct this from teh file extension
       m_strToType = getExtension ( m_strOutputName );
